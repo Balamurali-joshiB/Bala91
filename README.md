@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balamurali Joshi .B</h1>
-🌟 Hi, I'm Balamurali Joshi!
+
 Data Analytics | Automation | BI Developer
 
 I specialize in Power BI, Alteryx, Excel Automation, SQL, and Python to build data-driven solutions, automate manual workflows, and improve operational efficiency.
