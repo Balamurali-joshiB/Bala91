@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Analytics | Automation using Alteryx | BI Developer</h3>
 
-I specialize in Power BI, Alteryx, Excel Automation, SQL, and Python to build data-driven solutions, automate manual workflows, and improve operational efficiency.
+- I specialize in Power BI, Alteryx, Excel Automation, SQL, and Python to build data-driven solutions, automate manual workflows, and improve operational efficiency.
 I enjoy transforming raw data into meaningful insights and simplifying complex business processes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurali-joshib&label=Profile%20views&color=0e75b6&style=flat" alt="balamurali-joshib" /> </p>
@@ -10,17 +10,12 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurali-joshib" alt="balamurali-joshib" /></a> </p>
 
 <p align="left"> 🚀 Skills & Tools </p>
-
-
-- 🔭 I’m currently working on **Daily Workflow Automation using Alteryx Designer Tool**
-
-- 🌱 I’m currently learning **Data Analysis**
-
-- 💬 Ask me about **Alteryx, Power-BI, Microsoft Excel Advanced**
-
-- 📫 How to reach me **Balamurali.murali91@gmail.com**
-
-- 📄 Know about my experiences [10 + Years experience in Investment Banking also contributed in Multiple Projects](10 + Years experience in Investment Banking also contributed in Multiple Projects)
+- Business Intelligence: Power BI (DAX, Power Query), Dashboard Design.
+- Data Analysis: Excel (Power Query, Formulas, Pivot Tables, VBA basics).
+- Database: SQL (Joins, Aggregations, Data Cleaning).
+- Programming: Python (Pandas, Basic ETL).
+- Data Automation: Alteryx Designer Workflows.
+- Other: Data Reconciliation, Process Optimization, Documentation (BRD/UAT).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
