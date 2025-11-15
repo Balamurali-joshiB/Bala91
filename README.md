@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Balamurali Joshi .B</h1>
 
-Data Analytics | Automation | BI Developer
+<h3 align="center">Data Analytics | Automation using Alteryx | BI Developer</h3>
 
 I specialize in Power BI, Alteryx, Excel Automation, SQL, and Python to build data-driven solutions, automate manual workflows, and improve operational efficiency.
 I enjoy transforming raw data into meaningful insights and simplifying complex business processes.
-
-<h3 align="center">A passionate Alteryx Designer and Investment Banker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurali-joshib&label=Profile%20views&color=0e75b6&style=flat" alt="balamurali-joshib" /> </p>
 
