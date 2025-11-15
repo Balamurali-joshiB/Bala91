@@ -17,8 +17,11 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 - Data Automation: Alteryx Designer Workflows.
 - Other: Data Reconciliation, Process Optimization, Documentation (BRD/UAT).
 
+
 <p align="left"> 📂 Featured Projects: </p>
+
 <p align="left"> 🔹 Power BI Dashboards: </p>
+
 - Sales Insights Dashboard.
 - Customer Churn & Streaming Usage Analytics.
 - Financial KPI & Performance Tracker.
