@@ -9,6 +9,9 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurali-joshib" alt="balamurali-joshib" /></a> </p>
 
+<p align="left"> 🚀 Skills & Tools </p>
+
+
 - 🔭 I’m currently working on **Daily Workflow Automation using Alteryx Designer Tool**
 
 - 🌱 I’m currently learning **Data Analysis**
