@@ -18,6 +18,7 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 - Other: Data Reconciliation, Process Optimization, Documentation (BRD/UAT).
 
 
+
 <p align="left"> 📂 Featured Projects: </p>
 
 <p align="left"> 🔹 Power BI Dashboards: </p>
@@ -46,11 +47,14 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 - Uploading daily/weekly GitHub practice contributions.
 
 
+<p align="left"> 🌱 Learning Focus: </p>
 
-
+- Data Modeling & DAX Optimization.
+- Python for Analytics.
+- End-to-end ETL & automation workflows.
 
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/balamurali joshi.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balamurali joshi.b" height="30" width="40" /></a>
 <a href="https://kaggle.com/balamurali91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balamurali91" height="30" width="40" /></a>
