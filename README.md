@@ -25,7 +25,19 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 - Sales Insights Dashboard.
 - Customer Churn & Streaming Usage Analytics.
 - Financial KPI & Performance Tracker.
+  
 
+<p align="left"> 🔹 Alteryx Automation: </p>
+
+- GDS Broker vs Client Reconciliation Workflow.
+- OTC Settlement Automation Process.
+
+<p align="left"> 🔹 Excel & SQL Mini Projects: </p>
+
+- SQL Practice Queries & Datasets.
+- Excel Power Query ETL Samples.
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/balamurali joshi.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balamurali joshi.b" height="30" width="40" /></a>
