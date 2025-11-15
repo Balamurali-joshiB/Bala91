@@ -37,6 +37,18 @@ I enjoy transforming raw data into meaningful insights and simplifying complex b
 - SQL Practice Queries & Datasets.
 - Excel Power Query ETL Samples.
 
+
+<p align="left"> 📊 What I’m Working On: </p>
+
+- Automating manual processes using Alteryx.
+- Building clean & interactive Power BI dashboards.
+- Sharpening SQL & Python data cleaning skills.
+- Uploading daily/weekly GitHub practice contributions.
+
+
+
+
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
